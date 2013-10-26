@@ -19,11 +19,6 @@ import java.util.logging.SimpleFormatter;
  * <h3>Logger.</h3>
  * <p>Creates(if not exists) directory {@link XLogger#LOGS_DIRECTORY_NAME} 
  * and writes logs into this dir.</p>
- * Before usage you have to call one of these methods:
- * <ul>
- * <li>{@link XLogger#setup()}
- * <li>{@link XLogger#setup(java.lang.String)}
- * </ul>
  * <hr>
  * Usage. Call the following methods to send logs:
  * <ul>
