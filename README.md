@@ -1,15 +1,19 @@
-xlogger
+XLogger
 =======
 
 Java log-helper. Extremely simple.
+_ _ _
 
+Build
+-----
 
-=== BUILD ===
+        mvn clean install
 
-mvn clean install
+_ _ _
 
-
-=== AUTHOR ===
+Author
+------
 
 Siarhei Skavarodkin
+
 email: komarevsky (at) gmail (dot) com
